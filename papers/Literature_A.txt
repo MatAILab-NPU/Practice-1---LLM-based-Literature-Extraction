@@ -1,0 +1,272 @@
+2207797 (1 of 10)
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+A Gradient Doping Strategy toward Superior Electrochemical Performance for Li-Rich Mn-Based Cathode Materials
+Puheng Yang, Shichao Zhang,* Ziwei Wei, Xianggang Guan, Jun Xia,* Danyang Huang, Yalan Xing, Jia He,* Bohua Wen,* Bin Liu, and Huaizhe Xu
+DOI: 10.1002/smll.202207797
+1. Introduction
+The flourishing market of electric vehicles requires increasing energy density, cyclic stability, and safety performance for energy storage devices.[1–3] However, the energy output of recent lithium-ion batteries (LIBs) is restricted by relatively low-energy densities of current commercial cathode materials such as LiCoO2, LiFePO4, and LiMn1/3Co1/3Ni1/3O2.[4,5] Lithium-rich lay-
+ered oxides (LLOs) with an ultrahigh energy density of over 1000 Wh kg−1 and low cost are regarded as one of the most promising cathode materials for next-generation LIBs.[6,7] Nevertheless, the irreversible O2 release and subsequent for-
+mation of oxygen vacancies during anionic redox reaction processes for LLOs would induce transition metal (TM) migration, layer-to-spinel transformation, and micro-
+crack formation,[8–10] resulting in several electrochemical drawbacks, including capacity decline, energy density fade, and inferior rate capability,[11–13] limiting their applications in large-
+scale commercialization.
+In order to overcome the above disadvantages, numerous modification efforts, such as surface coating,[14] doping,[15] defect, and concentration gradient design,[16] have been made to stabilize the lattice oxygen for LLOs during cycling. Neverthe-
+less, most of the modification strategies left plenty of room for further optimization, for example, the surface coating can hardly tune the intrinsic characteristics of LLOs, and inactive ions in bulk-doped LLOs would play a negative role in capacity.[17] As a majority of the structure collapse for LLOs arises from sur-
+face instability, doping ions to form strong bonds at the sur-
+face area is a promising way to suppress structure evolution. Unfortunately, most doping elements would either spread throughout the bulk or segregate as heterostructure surfaces.[18] Tantalum was verified as an ideal surface doping element for layered structure cathode materials, because of its larger energy difference between the dopant-containing surface system and the pristine surface system along with positive valued average segregation energy.[18,19]
+In this work, we proposed a gradient Ta-doping configura-
+tion of LLO (Li1.2Mn0.54Co0.13Ni0.13O2) that tantalum decreased progressively from surface to bulk area along the radial direc-
+tion of the secondary particles accompanied by tantalum uni-
+formly distributing at the surface of the primary particles Lithium-rich layered oxides (LLOs) are concerned as promising cathode materials for next-generation lithium-ion batteries due to their high revers-
+ible capacities (larger than 250 mA h g−1). However, LLOs suffer from critical drawbacks, such as irreversible oxygen release, structural degradation, and poor reaction kinetics, which hinder their commercialization. Herein, the local electronic structure is tuned to improve the capacity energy density reten-
+tion and rate performance of LLOs via gradient Ta5+ doping. As a result, the capacity retention elevates from 73% to above 93%, and the energy density rises from 65% to above 87% for LLO with modification at 1 C after 200 cycles. Besides, the discharge capacity for the Ta5+ doped LLO at 5 C is 155 mA h g−1, while it is only 122 mA h g−1 for bare LLO. Theoretical calculations reveal that Ta5+ doping can effectively increase oxygen vacancy formation energy, thus guaranteeing the structure stability during the electrochemical process, and the density of states results indicate that the electronic conductivity of the LLOs can be boosted significantly at the same time. This strategy of gradient doping provides a new avenue to improve the electrochemical performance of the LLOs by modulating the local structure at the surface.
+Research Article
+P. Yang, S. Zhang, Z. Wei, X. Guan, J. Xia, Y. Xing
+School of Materials Science and Engineering
+Beihang University
+Beijing 100191, China
+E-mail: csc@buaa.edu.cn; cnxiajun@buaa.com
+P. Yang, H. Xu
+School of Physics Science and Nuclear Energy Engineering
+Beihang University
+Beijing 100191, China
+D. Huang, J. He
+Tianjin Key Laboratory of Advanced Functional Porous Materials
+Institute for New Energy Materials and Low-Carbon Technologies
+School of Materials Science and Engineering
+Tianjin University of Technology
+Tianjin 300384, China
+E-mail: hejia@tjut.edu.cn
+B. Wen
+Shenzhen International Graduate School
+Tsinghua University
+Shenzhen 518055, China
+E-mail: bohuawen@sz.tsinghua.edu.cn
+B. Liu
+School of Chemistry and Chemical Engineering
+Liaocheng University
+Liaocheng 252059, P. R. China
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/smll.202207797.
+Small 2023, 19, 2207797
+2207797 (2 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+(shown in Scheme 1). By introducing Ta5+ into the surface of LLO, the formation of TaO with high bond dissociation energy can enlarge the oxygen vacancy formation energy, thus strengthening the electronic and crystalline structure of LLO at the surface. Besides, the density of states (DOS) results showed that Ta5+ doping could improve the electronic conduc-
+tivity effectively. As a result, the Ta5+ doped LLO (Ta-05) exhibits excellent capacity and energy density retention over 200 cycles at 1 C (1 C = 250 mA g−1). Moreover, galvanostatic intermittent titration technique (GITT) analysis unravels the effect of Ta5+ doping on regulating the diffusion of Li+ ions, leading to out-
+standing rate performance.
+2. Results and Discussion
+The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to investigate the cation ratio of as-obtained cathode materials, and the results are listed in Table S1, Sup-
+porting Information. The contents of Li, Mn, Co, Ni, and Ta for all samples matched well with the designed value, indicating that Ta has been successfully introduced into Ta-03, Ta-05, and Ta-1. The structural details of the as-prepared cathode materials were revealed through X-ray diffraction (XRD) characteriza-
+tion and Rietveld refinement. As shown in Figure 1a, the dif-
+fraction peaks of all the samples are well-defined and all strong peaks are in accordance with the α-NaFeO2 hexagonal layered structure (R-3m), while the weak peaks between 20° and 25° are ascribed to C/2m space group of monoclinic Li2MnO3.[20] The splits of (006)/(102) and (018)/(110) at around 38° and 65° indicate the layered structure of all the samples.[21] As can be seen from the enlarged (003) peak in Figure 1b, the peak shifts to a lower degree with the increase of Ta5+ content, which can be assigned to the contribution of larger Ta5+ (0.7 Å) than Mn4+ (0.53 Å) and Co3+ (0.545 Å).[22] The Rietveld-refined patterns are exhibited in Figure 1c,d and Figure S1, Supporting Infor-
+mation, while the fitting data are listed in Table S2, Supporting Information. With the increase of the Ta5+ content, the lattice parameters a and c increase slightly, in accord with the above analysis. The c/a ratios for all the samples are higher than 4.99, illustrating the well-defined hexagonal layered structure of the Ta-doped materials. The Rietveld refinement indicates that the Ni2+ occupancy ratio in Li+ decreases from 2.05% in Ta-0 to 1.57%, 0.84%, and 0.38% in Ta-03, Ta-05, and Ta-1, respectively, clearly showing the suppression effect of the Ta doping on the Li/Ni mixing. On the whole, Ta5+ doping can effectively sup-
+press cation mixing and maintain well-layered structures.
+X-ray photoelectron spectroscopy (XPS) measurements were performed to confirm the surface element composition and chemical state of Ta-05 and Ta-0 samples (Figure 1e–g and Figure S2, Supporting Information). The oxidation state of manganese (OMn) is sensitive to the gap between split peaks of Mn 3s core level according to Equation (1)[23]
+O
+E s
+=
+−
+× ∆
+9.67
+1.27
+Mn
+3 
+(1)
+where ΔE3S is the binding energy separation between the two peaks of the doublet. As shown in Figure 2e, ΔE3S was 4.6 eV for both Ta-0 and Ta-05, indicating that the valence of Mn kept at +4 after Ta5+ doping. Figure S2, Supporting Information, Small 2023, 19, 2207797
+Scheme 1. Modification strategy of gradient Ta5+ doping for LLOs. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (3 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+shows the 2p spectra of Ni and Co, and the dominant peaks of 2p3/2 at 855 and 780 eV refer to Ni2+ and Co3+ for Ta-0 and Ta-05, respectively.[24,25] It is worth noting that a slight shift toward high binding energy for Ta-05 was observed, related to Small 2023, 19, 2207797
+Figure 1. Structure analysis of the as-obtained samples. a) XRD patterns of Ta-0, Ta-1, Ta-03, and Ta-05. b) The magnified pattern of (003) diffraction peaks. Rietveld refinement results of c) Ta-0 and d) Ta-05. XPS spectra of e) Mn 3s, f) O 1s, and g) Ta 4f for Ta-0 and Ta-05. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (4 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+slimly increased valences of Ni and Co. The O 1s deconvoluted spectra of both samples (Figure 1f) consist of three peaks, refer-
+ring to lattice oxygen (529.5 eV), Li2CO3/LiOH (531.2 eV), and OCO (532.9 eV), respectively.[25] The Ta 4f7/2 peak of Ta-05 located at a binding energy of 27 eV ascribed to Ta5+,[26] proving the existence of Ta element at the surface of Ta-05 (Figure 1g). The above results demonstrate that Ta5+ was successfully intro-
+duced into Ta-05 and the valences of transition metals were negligibly affected after Ta5+ doping.
+The morphological characteristics of as-prepared samples were investigated by scanning electron microscope (SEM), and the obtained images are shown in Figure S3, Supporting Information. All samples are secondary spheres 10 microns in diameter consisting of irregular primary particles about 100 nm in size. The tiny gaps between primary particles can be ascribed to the emission of CO2 from carbonate precursors during the heating process. To reveal tantalum distribution in Ta5+ doped materials, the representative spheres for Ta-05 were cut into semi-spheres by the technique of ultrathin section and analyzed by energy dispersive spectroscopy (EDS). Figure 2a shows the cross-sectional SEM image of Ta-05, and the corre-
+sponding element contents are plotted in Figure 2b. Although there were tiny gaps at the surface for Ta-05, the outer sphere of the secondary particle kept compact with limited space at the core area. The content of tantalum decreased linearly from surface to core area, indicating the gradient distribution of tan-
+talum in Ta-05 spheres. Besides, the homogeneous distribution of Ta at the secondary particle surface for Ta-05 was verified by EDS mapping (shown in Figure S4, Supporting Information). High-resolution transmission electron microscope (HRTEM) analysis was performed to display the crystal structure near the surface areas of Ta-0 and Ta-05. It can be noted that clear lat-
+tice fringes exist in Ta-0, and the space between adjacent lat-
+tice fringes is 0.474 nm (right-down image), fitting well with the (003) plane of the R-3m space group (Figure 2c).[27] The related fast Fourier transform (FFT) pattern (top-right image) verified that the structure is with the R-3m space group. As to Ta-05 in Figure 2d, the structure scarcely changed compared with Ta-0, even at the outermost area, indicating that tantalum entered the lattice of Ta-05 but not aggregated on the surface in the form of Ta2O5 or LiTaO3. Besides, the (003) plane spacing of Ta-05 is 4.8 nm, slightly wider than that of Ta-0, which may be attrib-
+uted to larger Ta5+ as described in the XRD section. To further confirm the distribution of tantalum on the primary particle surface for Ta-05, the TEM-EDS analysis and HAADF images were carried out. As can be seen in Figure 2e and Figure S5, Supporting Information, Ta is evenly dispersed on the surface of a single particle, ensuring that tantalum was distributed not only throughout the surface area of the secondary particle for Ta-05 but also at the surface of the primary particle.
+The effects of near-surface structure tuning on electrochem-
+ical performances were researched by multiple methods and the scheme of the coin-type cell is shown in Figure 3a. The ini-
+tial galvanostatic charge–discharge curves of Ta-0, Ta-03, Ta-05, Small 2023, 19, 2207797
+Figure 2. Morphology and structure characterization of the as-obtained samples. a) SEM image and b) element contents of the cross-section for Ta-05. High-resolution TEM and corresponding FFT patterns for c) Ta-0 and d) Ta-05. e) Mapping images of Ta-05. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (5 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+and Ta-1 at 0.2 C within 2.5–4.8 V are listed in Figure 3b. All samples show the typical initial charge process of Mn-based lithium-rich cathode materials. In detail, the charge curve can be divided into two parts, a sloping part below 4.5 V and a long plane part at 4.5 V. The sloping region belongs to the oxidation reaction of Ni2+ to Ni4+ and Co3+ to Co4+, while the long plateau is related to the oxygen activation of Li2MnO3.[28] The initial discharge capacities were 266, 262, 262, and 254 mA h g−1 for Ta-0, Ta-03, Ta-05, and Ta-1, respectively, and the corresponding coulombic efficiency was 78%, 78%, 81%, and 80%. Besides, the capacity retention over 100 cycles at 0.2 C (Figure S6, Sup-
+porting Information) for Ta-0, Ta-03, Ta-05, and Ta-1 was 83%, 88%, 94%, and 90%, respectively. Interestingly, as shown in Figure S7, Supporting Information, the coulombic efficiency for Ta-05 rose to above 99% since the second cycle, but it per-
+sistently kept at a relatively low value for Ta-0 during the first 40 cycles at 0.2 C. Figure 3c,d exhibits the discharge capaci-
+ties and energy densities for all samples at 1 C with 2.5–4.8 V during 200 cycles, respectively. Compared with Ta-0, both dis-
+charge capacity retentions and energy density retentions for the as-doped samples increased significantly (Figure S8, Sup-
+porting Information), the capacity retention elevated from 73% to above 93%, and the energy density retention rose from 65% to above 87% (Table S3, Supporting Information). The excellent cycling performances for Ta-03, Ta-05, and Ta-1 are ascribed to their superior surface stability compared to Ta-0 (discussed in the density functional theory [DFT] analysis section below), ensuring strong MO binding at the near-surface area during the redox procedure, restraining oxygen leaking and surface structure transformation. A comparison of the electrochemical performance for Ta-05 with some representative modified LLOs is listed in Table S4, Supporting Information. It can be seen that the gradient Ta5+ doping strategy takes advantage of the cyclic performance of LLOs.
+Figure 3e shows the rate performances of the obtained materials, and the average discharge capacity at 0.1, 0.2, 1, 2, and 5 C for Ta-0 was 276, 248, 208, 170, and 121 mA h g−1, respectively, and recovered to 250 mA h g−1 (9% attenuation from the initial discharge capacity) after returning to 0.1 C. As Ta5+ was doped in, the materials showed obvious capacity improvement. Especially, the correlative capacity for Ta-05 was 279, 258, 224, 197, and 155 mA h g−1, besides, the recovered discharge capacity was 270 mA h g−1, 97% of the initial dis-
+charge capacity. As is seen in Figures S9 and S10, Supporting Information, Ta-0 suffered from more severe polarization with increasing current density.
+To reveal the redox evolution within cycling, the cyclic vol-
+tammetry (CV) curves at several cycles for Ta-0 and Ta-05 are plotted in Figure 3f–h. During the initial oxidation process, two major peaks emerge in Figure 3f, fitting well with the result from Figure 3a. It is worth noting that the second oxi-
+dation peak for Ta-05 shifts to a lower voltage compared to Ta-0, indicating faster kinetics of Li2MnO3 activation of Ta-05. As for the initial lithiation process, a wide reduction peak with the summit at around 3.5 V corresponds to the redox couples of Ni4+/2+, Co4+/3+, and O−/2− for both samples.[29] Meanwhile, a small bump at around 2.7 V for Ta-0 can be observed, refer-
+ring to the reduction of Mn4+ to Mn3+,[30] deleterious to struc-
+tural stability and subsequent electrochemical performance, agreeing with the phenomenon that the reduction summit for Ta-0 budges to around 3 V after ten cycles.
+The diffusion coefficients of lithium-ion (DLi+) for Ta-0 and Ta-05 during the initial cycle were investigated by GITT and cal-
+culated by Equation (2)[31,32]
+πτ
+=
+
+
+
+
+∆
+∆
+
+
+
+
+τ
++
+4
+Li
+B
+M
+B
+2
+S
+2
+D
+m V
+M S
+E
+E
+
+(2)
+where τ is the time for every charge/discharge period, mB and MB is the molecular weight and mass, respectively, and VM is the molar volume. S is the active surface area, which is 2.92 and 3.57 m2 g−1 for Ta-0 and Ta-05, respectively, as deduced from BET measurement. ΔEs is the voltage difference of end voltages for the two adjacent rest periods, and ΔEτ is the dif-
+ference between the initial and end voltage for every charge/
+discharge period. The initial charging and discharging curves are shown in Figures 4a,b, respectively, and the interrelated DLi+ is listed in Figure 4c,d. Ta-05 exhibits larger DLi+ during the whole period, suggesting that Ta5+ doping not only benefits the Li2MnO3 activation but also accelerates Li+ diffusion during Ni2+/4+ and Co3+/4+ redox.
+To get a better understanding of the influences of Ta5+ gra-
+dient doping on lattice oxygen stability and local electron structure, DFT calculations were applied. The atomic coor-
+dination of Ta-0 and Ta-3 is shown in Figures S11a and S11b, respectively. Ta atom can favorably substitute Ni atom at the TM layer, and the bonds changed slightly after Ta doping. As shown in Figure 4e,g, the oxygen vacancy formation energy of Ta-3 (4.58 eV) was much larger than that of Ta-0 (3.08 eV), indi-
+cating that Ta5+ doping can stabilize lattice oxygen, resulting in suppressed oxygen releasing, cationic migration, and struc-
+ture conversion during the electrochemical process for LLO, agree well with the cycling performance at the electrochemical test section. The DOS of TM 3d and O 2p states are exhibited in Figure 4f,h, and the details of TM 3d states are shown in Figure S12, Supporting Information. For both samples, the O 2p orbitals along the LiOLi configurations, which have no TM orbital to hybridize with and do not hybridize with the Li 2s orbital, are located just below the Fermi level.[33] This charac-
+teristic configuration results in O non-bonding state and leads to oxygen activation. The band gap for Ta-0 and Ta-05 was 0.42 and 0.048 eV, respectively. Although both samples performed semiconductor characteristics, the electronic conductivity was significantly boosted by Ta5+ doping.
+XPS analysis of Ta-0 and Ta-05 electrodes after 200 cycles at 1 C was performed to disclose the side reactions between electrodes and the electrolyte during cycling. As shown in Figure 5a, the 2p3/2 peak and correlative satellite peak of Mn2+ at 641.4 and 646.8 eV, respectively, emerged after cycling for Ta-0, resulting from the activation and dissolution of manga-
+nese, which is detrimental to the structure stability.[34] Mean-
+while, the 2p3/2 peak of Mn4+ at 642.4 eV represents that the valence of manganese for Ta-05 kept unchanged with tantalum consolidation. F 1s spectra are exhibited in Figure 5b, and there are three F 1s peaks for Ta-0, relating to LiF (685.0 eV), PFxOy (687.3 eV), and CH2CF2 (688.1 eV), respectively. LiF formed as a result of defluorination of the solvent bound to the Li+ and LiPF6, PFxOy formed by the decomposition of LiPF6[35] Small 2023, 19, 2207797 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (6 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+and CH2CF2 belongs to polyvinylidene fluoride (PVDF).[36] Interestingly, the PFxOy peak vanished for Ta-05, accompanied by the intensity decreasing of the LiF peak, indicating the mark-
+edly diminishing of LiPF6 side reaction, which refers to weaker electrode-electrolyte side reaction and less overconsumption of electrolytes. Figure 5c shows the deconvoluted C 1s spectra with multiple peaks for both samples. For Ta-05, the CC bond at 284.8 eV, the CH bond at 285.1 eV in PVDF, and a weak peak of the CO bond at 286.2 eV composed the major peak, and tiny peaks at 288.6 and 290.9 eV is attributed to COOR in solid electrolyte interphase (SEI) and CF bond in PVDF, respectively.[37] As to Ta-0, the peak intensity of CO, COOR, and CO32− (290 eV) raised obviously, implying that the decom-
+position of electrolyte and the formation of a thick carbonate SEI consisting of ROCO2Li and other carboxylic group species severely occur for Ta-0. As shown in Figure 5d, only two peaks of O 1s exist for Ta-0, indicating to CO bond at 531.7 eV and OCO bond at 533.3 eV, respectively. Owing to the thick SEI on the surface of Ta-O, the peak of lattice oxygen at around 529.5 eV disappeared thoroughly. On the contrary, benefiting from stronger structure stability induced by Ta5+ doping, Ta-05 suffered from alleviative side reaction and thinner SEI at the surface, resulting in the retained peak of lattice oxygen in the O 1s spectrum.
+The structure changes for Ta-0 and Ta-05 after 200 cycles at 1 C were studied by XRD. As shown in Figure 5e, despite the impurity peaks of aluminum foil (Al) and supporting plasti-
+cine (CaCO3), all major peaks remained for both samples. The enlarged pattern of (003) exposes that a new summit formed at a larger 2θ degree for Ta-0, belonging to (111) of the Fd-3m Small 2023, 19, 2207797
+Figure 3. a) The scheme of coin-type cells assembled by the as-obtained samples. b) The initial galvanostatic charge–discharge curves of the as-
+obtained samples. c) Discharge capacities, d) energy density at 1 C over 200 cycles, and e) rate performance for the as-obtained samples. Cyclic voltammetry profiles for Ta-0 and Ta-05 during f) 1st, g) 2nd, and h) 10th cycle. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (7 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+Small 2023, 19, 2207797
+space group,[15] while no relevant peak splitting can be found for Ta-05. Besides, (108) at around 65° almost vanishes for Ta-0, indicating the failure of the layered structure. The XRD results demonstrate that Ta-05 exhibits superior structure stability during cycling.
+To verify the element distribution on the surface of the cycled electrodes mentioned above, SEM-EDS analysis was performed and the relative results are exhibited in Figures S13 and S14 and Table S5, Supporting Information. The atom contents of F and P for Ta-0 and Ta-05 decreased from 27.13% and 10.51% to 11.53% and 3.04%, respectively, pertaining to the moderate reduction of LiFP6 for Ta-05, con-
+sistent with the XPS analysis. Besides, a cross-section SEM image of 200 times cycled electrode at 1 C for Ta-0 and Ta-05 is shown in Figure 5f. For Ta-0, distinct cracks propagated throughout the whole particle and the spherical morphology nearly crashed, and these cracks provide pathways for electro-
+lyte infiltration, leading to parasitic reactions between elec-
+trolyte and active material at the inner bulk and thus further have a deleterious effect on electrochemical performance. In contrast, the cycled particle of Ta-05 kept compact and no obvious radial crack was identified. Besides, HRTEM and cor-
+responding FFT images for Ta-0 and Ta-05 after 200 cycles at 1C are shown in Figure S15, Supporting Information. For both samples, the surface structure transformed into a spinel-like phase. Noticeably, the thickness of the spinel-like phase was 14 nm for Ta-0, while it was only 4 nm for Ta-05 with a good layered structure in bulk. The above mutually consolidated results of post-cycled XPS, XRD, SEM, and TEM analysis affirm that the Ta-05 remains the structural and mor-
+phological stability well during cycling, instrumental in the capacity and energy density stability.
+Figure 4. GITT curves for Ta-0 and Ta-05 during the first a) charging, b) discharging process, and c,d) the corresponding DLi+. Atomic coordination of e) Ta-0 and g) Ta-05 with one oxygen vacancy at the surface. The density of state of O-2p states, TM-3d states, and total states in f) Ta-0 and h) Ta-05. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (8 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+Small 2023, 19, 2207797
+3. Conclusion
+In summary, the gradient-trace Ta-doped LLO cathode mate-
+rials (Li1.2099Mn0.5374Co0.1268Ni0.1257Ta0.0036O2 as representative) with the tuned electronic and crystalline surface structure were successfully synthesized through a facile precursor coating strategy. DFT calculation verified that the Ta substitu-
+tion at the TM site would enlarge the oxygen vacancy forma-
+tion energy of the surface area for LLO. Besides, the bond gap narrowed down according to the density of the state, resulting in better electronic conductivity. The well-designed Ta-05 cathode material delivered remarkable capacity and energy den-
+sity retention of 95% and 88%, respectively, over 200 cycles at 1 C. GITT analysis along with the rate performance confirmed that Li+ diffusion was promoted during the whole redox reac-
+tion process, leading to an increased average discharge capacity of 155 mA h g−1 at 5 C. The post-cycling investigation demon-
+strated that the phase transformation and parasitic reaction between the electrode and electrolyte were effectively sup-
+pressed. Ta5+ doping brings great structural stability and good Figure 5. XPS spectra of a) Mn 2p, b) F 1s, c) C 1s, and d) O 2p for Ta-0 and Ta-05 electrode over 200 cycles at 1 C. e) XRD patterns for Ta-0 and Ta-05 electrode over 200 cycles at 1 C. f) SEM of the cross-section for Ta-0 and Ta-05 electrode over 200 cycles at 1 C and the corresponding scheme of structure evolution mechanism. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (9 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+Small 2023, 19, 2207797
+electronic conductivity to LLO, both of which are crucial fac-
+tors for the electrochemical performance of LLO. These new insights will provide recommendations for the rational design of stable LLO cathode materials with fast Li+ diffusion.
+4. Experimental Section
+Preparation of Cathode Materials: Ta-modified carbonate precursor was prepared via dispersing tantalum (V) ethoxide uniformly on the surface of precursors. In detail, the as-obtained carbonate precursor (Mn0.675Co0.1625Ni0.1625CO3) from HaiAnZhiChuan Battery Materials Technology Co., LTD., was dispersed in ethanol uniformly to obtain solution A. Various amount of tantalum (V) ethoxide and a moderate amount of acetic acid were dissolved in ethanol to gain solution B. Then solution A was added into solution B drop by drop with continuous stirring. After stirring for 48 h, the mixture solution was filtered and dried at 80 °C to obtain a Ta-modified precursor. Afterward, the obtained oxide precursor was calcined at 500 °C for 4 h and then 900 °C for 15 h after mixing with Li2CO3 (5 wt% excess) to produce the target Li1.2Mn0.54Co0.13Ni0.13O2 Li-rich cathode material (LLO). LLO with the molar ratio of Ta to M (M = Mn, Co, and Ni) at 0.01, 0.005, 0.003, and 0 was named Ta-1, Ta-05, Ta-03, and Ta-0, respectively.
+Materials Characterization: ICP-MS was characterized by Agilent ICP-MS 7800. The powder XRD was performed on Rigaku D/MAX-
+2500 (Cu Kα radiation, 40 kV and 200 mA) at the scan rate of 1° min−1 within the 2θ range from 10° to 80°. Rietveld refinements of the XRD were carried out by General Structure Analysis System (GSAS) software based on a two-phase model system of R-3m and C2/m. XPS was characterized on Thermo escalab 250Xi using monochromatic Al Ka X-ray excitation. FE-SEM (Hitachi S4800) and TEM (FEI Tecnai G2 F30 microscope) images were performed to characterize the morphology and microstructure of samples. A cross-section of Ta-05 particles was obtained by ultrathin section, and EDS was performed to determine the distribution of the elements.
+Electrochemical Measurements: The LLO cathode material, acetylene black, and PVDF binder (mass ratio of 8:1:1) were mixed and dispersed into N-methylpyrrolidone (NMP) solvent to prepare the cathode slurry, which was then coated on Al foil and dried at 80 °C for 12 h in a vacuum oven. The dried electrode was cut into a round film with a diameter of 10 mm and the weight loading of active materials was about 2 mg cm−2. The test cells were assembled as CR2032-type coin cells in an Ar glove box (H2O and O2 contents below 0.1 ppm), and a high-voltage electrolyte (LB372, Duoduo Company) was used as the electrolyte. The electrochemical measurements of the assembled cells were carried out on a LAND CT2001C at a temperature of 25 °C. The batteries were tested in the voltage range of 2.5–4.8 V (vs Li+/Li). For 1 C (1 C = 250 mA g−1) cycling tests, the batteries were first charged at 0.2 C and discharged at 1 C, cycled five times, and then cycled at 1 C for the subsequent 200 cycles. For 0.2 C cycling tests, the batteries were cycled at 0.2 C for 100 cycles. The rate performance of the batteries was tested at 0.1, 0.2, 1, 2, and 5 C, and then returned to 0.1 C. GITT was carried out at 0.1 C between 2.5 and 4.8 V. The charging/discharging time before rest was 10 min, and every rest period was 1 h. CV was conducted on a CHI660e electrochemical workstation in the voltage between 2.5 and 4.8 V at a scan rate of 0.1 mV s−1.
+Density Functional Theory Calculation: All the calculations were performed in the framework of the DFT with the projector-augmented plane-wave method, as implemented in the Vienna ab initio simulation package.[38] The generalized gradient approximation proposed by Perdew, Burke, and Ernzerhof was selected for the exchange-correlation potential.[39] Spin-polarized calculations with antiferromagnetic spin ordering were conducted to relax all of the structures.[40] The cut-off energy for the plane wave was set to 500 eV. The energy criterion was set to 10−5 eV in the iterative solution of the Kohn–Sham equation. A vacuum layer of 15 Å was added perpendicular to the sheet to avoid artificial interaction between periodic images. The effective Hubbard U of Co, Mn, and Ni were respectively 4.91, 4.95, and 6.3 eV to describe transition metal compounds with localized d electrons.[41] The Brillouin zone integration was performed using a 4 × 4 × 4 k-mesh. All the structures were relaxed until the residual forces on the atoms had declined to less than 0.01 eV Å−1. The pristine LLO structure was Li42Mn18Ni6Co6O72, labeled as Ta-0. For the doped structure, one Ni atom was substituted with one Ta atom in Ta-0, resulting in the structure of Li42Mn18Ni5Ta1Co6O72, labeled as Ta-3. The structural models in this work were plotted using VESTA software.[42]
+Supporting Information
+Supporting Information is available from the Wiley Online Library or from the author.
+Acknowledgements
+This work was supported by the National Key Research and Development Program of China (2019YFA0705700), the National Natural Science Foundation of China (51774017 and 51904016), and the Key Program of Equipment Pre-Research Foundation of China (6140721020103). Also, the authors want to thank Beijing Zhongkebaice Technology Service Co., Ltd for the support of experimental instruments supports. The materials characterization analysis studies were supported by Shiyanjia Lab (www.
+shiyanjia.com).
+Conflict of Interest
+The authors declare no conflict of interest.
+Data Availability Statement
+Research data are not shared.
+Keywords
+cathode materials, gradient doping, Li-rich Mn-based cathodes, lithium-ion batteries, tantalum doping
+Received: December 13, 2022
+Revised: February 4, 2023
+Published online: February 20, 2023
+[1] T. Yang, J. Xia, Z. Piao, L. Yang, S. Zhang, Y. Xing, G. Zhou, ACS Nano 2021, 15, 13901.
+[2] J. Xia, R. Gao, Y. Yang, Z. Tao, Z. Han, S. Zhang, Y. Xing, P. Yang, X. Lu, G. Zhou, ACS Nano 2022, 16, 19133.
+[3] J. Xia, W. Chen, Y. Yang, X. Guan, T. Yang, M. Xiao, S. Zhang, Y. Xing, X. Lu, G. Zhou, EcoMat 2022, 4, e12183.
+[4] D. Ye, G. Zeng, K. Nogita, K. Ozawa, M. Hankel, D. J. Searles, L. Wang, Adv. Funct. Mater. 2015, 25, 7488.
+[5] D. Luo, S. H. Fang, Y. Tamiya, L. Yang, S. Hirano, Small 2016, 12, 4421.
+[6] J. Zhang, Q. Zhang, D. Wong, N. Zhang, G. Ren, L. Gu, C. Schulz, L. He, Y. Yu, X. Liu, Nat. Commun. 2021, 12, 3071.
+[7] S. Hu, A. S. Pillai, G. Liang, W. K. Pang, H. Wang, Q. Li, Z. Guo, Electrochem. Energy Rev. 2019, 2, 277. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2207797 (10 of 10)
+www.advancedsciencenews.com
+© 2023 Wiley-VCH GmbH
+www.small-journal.com
+Small 2023, 19, 2207797
+[8] M. Sathiya, K. Ramesha, G. Rousse, D. Foix, D. Gonbeau, A. S. Prakash, M. L. Doublet, K. Hemalatha, J. M. Tarascon, Chem. Mater. 2013, 25, 1121.
+[9] W. He, W. B. Guo, H. L. Wu, L. Lin, Q. Liu, X. Han, Q. S. Xie, P. F. Liu, H. F. Zheng, L. S. Wang, X. Q. Yu, D. L. Peng, Adv. Mater. 2021, 33, 2005937.
+[10] Y. K. Lei, J. Ni, Z. J. Hu, Z. M. Wang, F. K. Gui, B. Li, P. W. Ming, C. M. Zhang, Y. Elias, D. Aurbach, Q. F. Xiao, Adv. Energy Mater. 2020, 10, 2002506.
+[11] X. Li, Y. Qiao, S. Guo, Z. Xu, H. Zhu, X. Zhang, Y. Yuan, P. He, M. Ishida, H. Zhou, Adv. Mater. 2018, 30, 1705197.
+[12] P. Liu, H. Zhang, W. He, T. Xiong, Y. Cheng, Q. Xie, Y. Ma, H. Zheng, L. Wang, Z.-Z. Zhu, Y. Peng, L. Mai, D.-L. Peng, J. Am. Chem. Soc. 2019, 141, 10876.
+[13] X.-D. Zhang, J.-L. Shi, J.-Y. Liang, Y.-X. Yin, J.-N. Zhang, X.-Q. Yu, Y.-G. Guo, Adv. Mater. 2018, 30, 1801751.
+[14] S. Li, H. Li, H. Zhang, S. Zhang, Y. Lai, Z. Zhang, Chem. Eng. J. 2022, 427, 132036.
+[15] H. Zheng, C. Zhang, Y. Zhang, L. Lin, P. Liu, L. Wang, Q. Wei, J. Lin, B. Sa, Q. Xie, D.-L. Peng, Adv. Funct. Mater. 2021, 31, 2100783.
+[16] T. Wu, X. Liu, X. Zhang, Y. Lu, B. Wang, Q. Deng, Y. Yang, E. Wang, Z. Lyu, Y. Li, Y. Wang, Y. Lyu, C. He, Y. Ren, G. Xu, X. Sun, K. Amine, H. Yu, Adv. Mater. 2021, 33, 2001358.
+[17] S. J. Hu, A. S. Pillai, G. M. Liang, W. K. Pang, H. Q. Wang, Q. Y. Li, Z. P. Guo, Electrochem. Energy Rev. 2019, 2, 277.
+[18] Y. Shin, W. H. Kan, M. Aykol, J. K. Papp, B. D. McCloskey, G. Y. Chen, K. A. Persson, Nat. Commun. 2018, 9, 4597.
+[19] W. Huang, W. Li, L. Wang, H. Zhu, M. Gao, H. Zhao, J. Zhao, X. Shen, X. Wang, Z. Wang, C. Qi, W. Xiao, L. Yao, J. Wang, W. Zhuang, X. Sun, Small 2021, 17, 2104282.
+[20] M. M. Thackeray, S. H. Kang, C. S. Johnson, J. T. Vaughey, S. A. Hackney, Electrochem. Commun. 2006, 8, 1531.
+[21] Y. Li, Y. Bai, X. Bi, J. Qian, L. Ma, J. Tian, C. Wu, F. Wu, J. Lu, K. Amine, ChemSusChem 2016, 9, 728.
+[22] S. Jamil, C. Li, M. Fasehullah, P. Liu, F. Xiao, H. Wang, S. Bao, M. Xu, Energy Storage Mater. 2022, 45, 720.
+[23] V. R. Galakhov, M. Demeter, S. Bartkowski, M. Neumann, N. A. Ovechkina, E. Z. Kurmaev, N. I. Lobachevskaya, Y. M. Mukovskii, J. Mitchell, D. L. Ederer, Phys. Rev. B 2002, 65, 113102.
+[24] H. S. Liu, Y. Yang, J. J. Zhang, J. Power Sources 2007, 173, 556.
+[25] Z. Shi, Q. Gu, L. Yun, Z. Wei, D. Hu, B. Qiu, G. Z. Chen, J. Mater. Chem. A 2021, 9, 24426.
+[26] X. Zhang, P. Zhang, T. Zeng, Z. Yu, X. Qu, X. Peng, Y. Zhou, X. Duan, A. Dou, M. Su, Y. Liu, ACS Appl. Energy Mater. 2021, 4, 8641.
+[27] Y. Hao, W. Liu, Q. Zhang, X. Wang, H. Yang, L. Kou, Z. Tian, L. Shao, H. M. K. Sari, J. Wang, H. Shan, X. Li, Nano Energy 2021, 88, 106240.
+[28] T. Lin, T. U. Schulli, Y. Hu, X. Zhu, Q. Gu, B. Luo, B. Cowie, L. Wang, Adv. Funct. Mater. 2020, 30, 1909192.
+[29] W. E. Gent, K. Lim, Y. Liang, Q. Li, T. Barnes, S.-J. Ahn, K. H. Stone, M. McIntire, J. Hong, J. H. Song, Y. Li, Nat. Commun. 2017, 8, 2091.
+[30] D. Mohanty, S. Kalnaus, R. A. Meisner, K. J. Rhodes, J. L. Li, E. A. Payzant, D. L. Wood, C. Daniel, J. Power Sources 2013, 229, 239.
+[31] Z. Li, F. Du, X. F. Bie, D. Zhang, Y. M. Cai, X. R. Cui, C. Z. Wang, G. Chen, Y. J. Wei, J. Phys. Chem. C 2010, 114, 22751.
+[32] D. W. Dees, S. Kawauchi, D. P. Abraham, J. Prakash, J. Power Sources 2009, 189, 263.
+[33] D.-H. Seo, J. Lee, A. Urban, R. Malik, S. Kang, G. Ceder, Nat. Chem. 2016, 8, 692.
+[34] F. Wu, W. Li, L. Chen, Y. Su, L. Bao, W. Bao, Z. Yang, J. Wang, Y. Lu, S. Chen, Energy Storage Mater. 2020, 28, 383.
+[35] J.-G. Han, J. B. Lee, A. Cha, T. K. Lee, W. Cho, S. Chae, S. J. Kang, S. K. Kwak, J. Cho, S. Y. Hong, N.-S. Choi, Environ. Sci. 2018, 11, 1552.
+[36] J.-G. Han, K. Kim, Y. Lee, N.-S. Choi, Adv. Mater. 2019, 31, 1804822.
+[37] J. Zhao, Y. Liang, X. Zhang, Z. Zhang, E. Wang, S. He, B. Wang, Z. Han, J. Lu, K. Amine, H. Yu, Adv. Funct. Mater. 2020, 31, 2009192.
+[38] G. Kresse, D. Joubert, Phys. Rev. B 1999, 59, 1758.
+[39] J. P. Perdew, K. Burke, M. Ernzerhof, Phys. Rev. Lett. 1996, 77, 3865.
+[40] N. A. Chemova, M. Ma, J. Xiao, M. S. Whittingham, J. Breger, C. P. Grey, Chem. Mater. 2007, 19, 4682.
+[41] W. Guo, C. Zhang, Y. Zhang, L. Lin, W. He, Q. Xie, B. Sa, L. Wang, D. L. Peng, Adv. Mater. 2021, 33, 2103173.
+[42] K. Momma, F. Izumi, J. Appl. Crystallogr. 2011, 44, 1272. 16136829, 2023, 20, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/smll.202207797 by University Of Electronic, Wiley Online Library on [09/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

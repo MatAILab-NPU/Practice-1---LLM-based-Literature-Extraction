@@ -1,0 +1,4 @@
+python-dotenv>=1.0.1     # 用于读取 .env 文件中的 API 配置
+tqdm>=4.66.0             # 显示进度条
+requests>=2.31.0         # 发送 HTTP 请求（调用 SiliconFlow API）
+PyMuPDF>=1.24.9          # fitz 库，用于 PDF 文本提取

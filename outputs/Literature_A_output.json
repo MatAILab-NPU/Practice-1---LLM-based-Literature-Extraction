@@ -1,0 +1,18 @@
+```json
+{
+  "A-L0": {
+    "Title": "A Gradient Doping Strategy toward Superior Electrochemical Performance for Li-Rich Mn-Based Cathode Materials",
+    "Year": "2023",
+    "Journal": "Small",
+    "Material_System": "Li1.2Mn0.54Co0.13Ni0.13O2",
+    "Cell_Architecture": "Coin-type cell"
+  },
+  "A-L1": {
+    "Problem_Statement": "The energy output of recent lithium-ion batteries (LIBs) is restricted by relatively low-energy densities of current commercial cathode materials such as LiCoO2, LiFePO4, and LiMn1/3Co1/3Ni1/3O2. Lithium-rich layered oxides (LLOs) with an ultrahigh energy density of over 1000 Wh kg−1 and low cost are regarded as one of the most promising cathode materials for next-generation LIBs. However, the irreversible O2 release and subsequent formation of oxygen vacancies during anionic redox reaction processes for LLOs would induce transition metal (TM) migration, layer-to-spinel transformation, and micro-crack formation, resulting in several electrochemical drawbacks, including capacity decline, energy density fade, and inferior rate capability.",
+    "Design_Strategy": "A gradient Ta-doping configuration of LLO (Li1.2Mn0.54Co0.13Ni0.13O2) that tantalum decreased progressively from surface to bulk area along the radial direction of the secondary particles accompanied by tantalum uniformly distributing at the surface of the primary particles.",
+    "Method_Brief": "The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to investigate the cation ratio of as-obtained cathode materials. X-ray diffraction (XRD) and Rietveld refinement were used to analyze the structural details. X-ray photoelectron spectroscopy (XPS) was performed to confirm the surface element composition and chemical state. Scanning electron microscope (SEM) and energy dispersive spectroscopy (EDS) were used to investigate the morphological characteristics. High-resolution transmission electron microscope (HRTEM) was used to display the crystal structure near the surface areas. Galvanostatic intermittent titration technique (GITT) was used to analyze the effect of Ta5+ doping on regulating the diffusion of Li+ ions. Cyclic voltammetry (CV) was conducted to reveal the redox evolution within cycling. Density functional theory (DFT) calculations were applied to understand the influences of Ta5+ gradient doping on lattice oxygen stability and local electron structure.",
+    "Key_Findings": "The capacity retention elevated from 73% to above 93%, and the energy density retention rose from 65% to above 87% for LLO with modification at 1 C after 200 cycles. The discharge capacity for the Ta5+ doped LLO at 5 C is 155 mA h g−1, while it is only 122 mA h g−1 for bare LLO. Theoretical calculations reveal that Ta5+ doping can effectively increase oxygen vacancy formation energy, thus guaranteeing the structure stability during the electrochemical process, and the density of states results indicate that the electronic conductivity of the LLOs can be boosted significantly at the same time.",
+    "Performance": "The Ta5+ doped LLO (Ta-05) exhibits excellent capacity and energy density retention over 200 cycles at 1 C (1 C = 250 mA g−1). The rate performance is also improved, with a recovered discharge capacity of 270 mA h g−1 at 5 C, which is 97% of the initial discharge capacity."
+  }
+}
+```
